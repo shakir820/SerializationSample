@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationSample", "SerializationSample\SerializationSample.csproj", "{C2D84CB5-B177-4C80-86A9-94D94F6E0977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|ARM.Build.0 = Debug|ARM
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|ARM.Deploy.0 = Debug|ARM
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|ARM64.Build.0 = Debug|ARM64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|x64.ActiveCfg = Debug|x64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|x64.Build.0 = Debug|x64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|x64.Deploy.0 = Debug|x64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|x86.ActiveCfg = Debug|x86
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|x86.Build.0 = Debug|x86
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Debug|x86.Deploy.0 = Debug|x86
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|ARM.ActiveCfg = Release|ARM
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|ARM.Build.0 = Release|ARM
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|ARM.Deploy.0 = Release|ARM
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|ARM64.ActiveCfg = Release|ARM64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|ARM64.Build.0 = Release|ARM64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|ARM64.Deploy.0 = Release|ARM64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|x64.ActiveCfg = Release|x64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|x64.Build.0 = Release|x64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|x64.Deploy.0 = Release|x64
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|x86.ActiveCfg = Release|x86
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|x86.Build.0 = Release|x86
+		{C2D84CB5-B177-4C80-86A9-94D94F6E0977}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABB860A7-9E74-4B85-BE7A-6613FA20A7C1}
+	EndGlobalSection
+EndGlobal
